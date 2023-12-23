@@ -67,5 +67,3 @@
   <img src="https://raw.githubusercontent.com/lifaet/lifaet/output/github-contribution-grid-snake.svg" alt="SnakeEMCnt"/>
   <br /><br /><br />
 </div>
-
-<br />
