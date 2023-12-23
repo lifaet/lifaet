@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lifaet.lifaet" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'+Lifaet+Hossain+Zim;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lifaet+Hossain+Zim;"/>
 </h1>
 
 <h4 align="center">As passionate and hard-working developer, I aim to harness my skills and experience to create a bright future for myself. And wherever I get the opportunity, I want to participate in the development progress of the world with my best efforts.</h4>
