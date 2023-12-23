@@ -47,15 +47,6 @@
 
 <br />
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img src="https://raw.githubusercontent.com/lifaet/lifaet/output/github-contribution-grid-snake.svg" alt="SnakeEMCnt"/>
-  <br /><br /><br />
-</div>
-
-<br />
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align=center>
@@ -66,6 +57,15 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lifaet&theme=react" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lifaet&theme=react" alt="PDTime" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/lifaet/lifaet/output/github-contribution-grid-snake.svg" alt="SnakeEMCnt"/>
+  <br /><br /><br />
 </div>
 
 <br />
